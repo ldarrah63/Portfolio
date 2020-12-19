@@ -1,0 +1,110 @@
+body{
+    background-color: rgb(226, 226, 226);
+     background-image: url(https://i.pinimg.com/originals/cd/e9/3d/cde93d87aaa96edda5968823c6592b0b.jpg);  
+    /*  https://lumiere-a.akamaihd.net/v1/images/background-stars-mobile_70c52e78.jpeg?region=0%2C0%2C640%2C1000 -stars 
+        https://i.pinimg.com/originals/cd/e9/3d/cde93d87aaa96edda5968823c6592b0b.jpg -wood
+
+     */
+   background-size: auto;
+}
+.navbar-default{
+    background-color: black;
+
+}
+.aboutme{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    color: white;
+    font-family: Fira code;
+    
+}
+.jumbotron{
+   /* background-color: rgb(226, 226, 226);
+    https://images.unsplash.com/photo-1547157720-52d782e55b83?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1234&q=80 -moon
+    https://images.unsplash.com/photo-1547534887-8d299f2c126b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1233&q=80 -space
+
+    
+    background-image: url(https://images.unsplash.com/photo-1547534887-8d299f2c126b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1233&q=80);*/
+    height: 850px;
+    width: 75%;
+    margin-left: 10%;
+    margin-top: 50px;
+    float: center;
+    background-size:cover;
+}
+
+.rotate90{
+    border-radius: 50%;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+   
+}
+
+.CSS3{
+    display: inline-block;
+    width: 220px;
+    height: 100px;
+    
+
+}
+
+.SQL{
+    display: inline-block;
+    width: 220px;
+    height: 150px;
+
+
+}
+.MySQL{
+    display: inline-block;
+    width: 220px;
+    height: 200px;
+}
+
+.Cisco{
+    display: inline-block;
+    width: 220px;
+    height: 150px;
+}
+.BICSI2{
+    display: inline-block;
+    width: 220px;
+    height: 150px;
+}
+.panduit1{
+    display: inline-block;
+    width: 220px;
+    height: 150px;
+}
+.belden1{
+    display: inline-block;
+    width: 220px;
+    height: 150px;
+}
+.corning1{
+    display: inline-block;
+    width: 220px;
+    height: 120px;
+}
+.cardoverlay1{
+    margin-top: 0%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+
+#contact-form{
+    color: black;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: inherit;
+    padding: 100px;
+
+
+}
